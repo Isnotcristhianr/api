@@ -7,5 +7,8 @@ use CodeIgniter\Router\RouteCollection;
  */
 $routes->get('/', 'Home::index');
 
-//
+//proveedores
 $routes->get('/proveedor', 'proveedorController::index');
+
+//mejores vendedores
+$routes->get('/mejoresVendedores', 'proveedorController::mejoresVendedores');

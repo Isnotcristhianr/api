@@ -22,4 +22,11 @@ class proveedorModel extends Model
         return $query->getResultArray();
     }
 
+    public function mejoresVendedores()
+    {
+        $query = $this->db->query("SELECT * FROM tbl_ventas ORDER BY VENT_PRECIO_VENDIDO DESC LIMIT 10");
+
+        return $query->getResultArray();
+    }
+
 }
