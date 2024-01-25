@@ -1,0 +1,120 @@
+CRITICAL - 2024-01-25 01:06:09 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:06:09 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:06:46 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:06:47 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:06:47 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:06:47 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:06:48 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:07:15 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:07:30 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:07:30 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:07:31 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-25 01:07:31 --> Class "codeigniter\Model" not found
+in APPPATH\Models\proveedorModel.php on line 6.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(312): include_once()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(291): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Models\\proveedorModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(269): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\proveedorModel')
+ 4 APPPATH\Controllers\proveedorController.php(10): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\proveedorModel')
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
