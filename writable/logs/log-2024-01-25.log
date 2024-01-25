@@ -118,3 +118,43 @@ in APPPATH\Models\proveedorModel.php on line 6.
  6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
  7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
  8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-25 01:13:12 --> mysqli_sql_exception: Table 'bdd_pymes.proveedor' doesn't exist in C:\xampp\htdocs\api\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\api\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT * FROM p...', 0)
+#1 C:\xampp\htdocs\api\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM p...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM p...')
+#3 C:\xampp\htdocs\api\app\Models\proveedorModel.php(20): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#4 C:\xampp\htdocs\api\app\Controllers\proveedorController.php(11): App\Models\proveedorModel->obtenerProveedor()
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-25 01:13:12 --> Table 'bdd_pymes.proveedor' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\proveedorModel.php(20): CodeIgniter\Database\BaseConnection->query('SELECT * FROM proveedor')
+ 2 APPPATH\Controllers\proveedorController.php(11): App\Models\proveedorModel->obtenerProveedor()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-25 01:13:13 --> mysqli_sql_exception: Table 'bdd_pymes.proveedor' doesn't exist in C:\xampp\htdocs\api\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\api\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT * FROM p...', 0)
+#1 C:\xampp\htdocs\api\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT * FROM p...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT * FROM p...')
+#3 C:\xampp\htdocs\api\app\Models\proveedorModel.php(20): CodeIgniter\Database\BaseConnection->query('SELECT * FROM p...')
+#4 C:\xampp\htdocs\api\app\Controllers\proveedorController.php(11): App\Models\proveedorModel->obtenerProveedor()
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2024-01-25 01:13:13 --> Table 'bdd_pymes.proveedor' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 APPPATH\Models\proveedorModel.php(20): CodeIgniter\Database\BaseConnection->query('SELECT * FROM proveedor')
+ 2 APPPATH\Controllers\proveedorController.php(11): App\Models\proveedorModel->obtenerProveedor()
+ 3 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\proveedorController->index()
+ 4 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\proveedorController))
+ 5 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
